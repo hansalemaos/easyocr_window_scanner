@@ -1,0 +1,9 @@
+a_cv2_imshow_thread
+a_pandas_ex_plode_tool
+easyocr
+keyboard
+numpy
+opencv_python
+pandas
+requests
+windows_adb_screen_capture
